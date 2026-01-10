@@ -1,9 +1,10 @@
 # HEARTOPIA
 
 
-## MAP OF CONTENT
+## Table Des Matières
 
-- farm.md
+- jardinage.md
+- peche.md
 
 ## Notes
 
@@ -11,6 +12,4 @@
 
 - il y a des bulle dans les aire qui donne des récompense
 
-- on peut rester appuiyer sur le bouton pecher pour lancer plus précisement
 
-- on peut pecher meme si ya pas d'ombre de poisson ? Oui / Non ?
