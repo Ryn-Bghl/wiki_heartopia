@@ -7,6 +7,7 @@ Heartopia est un jeu a la animal crossing où les joueurs son les batisseur.
 - jardinage.md
 - peche.md
 - farm.md
+- recompense.md
 
 ## Notes
 
