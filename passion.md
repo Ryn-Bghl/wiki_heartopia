@@ -2,8 +2,9 @@
 
 ## Les outils
 
-- Canne à peche
 - Hache
+- Canne à peche
+- Appareille photo
 
 ## Réparer les outils
 
@@ -14,3 +15,7 @@
 - Trousse de réparation de vivacité
 
 5% / s pendant 20s == 100%
+
+## Cuisiner
+
+on apprend les recette chez le chef ( Massimo )
