@@ -9,6 +9,8 @@
 - pecher dans l'evenement bateau permet d'xp plus rapidement
 - peche lvl 3 => upgrade necessite 2 item upgrade
 
-- le bateau 1 personne == 2 min
+- le bateau 1 personne == 2min 45s
 - bateau == 2000 pieces
 
+Que poisson dorée :
+190 xp / evenement
