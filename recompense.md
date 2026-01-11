@@ -11,3 +11,12 @@ La recompense est au dessus du parasole
 
 ### Recompense :
 Carte postale, invitation des amis
+
+## Recompense Tenue
+![Recompense_Fontaine](./assets/recompense/recompense_fontaine.png)
+
+### Descritpion
+La recompense est au dessus de la fontaine de balenne
+
+## Recompense :
+loafer de marin uni
