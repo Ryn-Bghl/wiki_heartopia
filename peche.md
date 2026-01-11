@@ -12,7 +12,7 @@
 - le bateau 1 personne == 2min 45s
 - bateau == 2000 pieces
 
-- on vent les poisson a bill ?
+- on vend les poisson à Albert Jr (vendeur de pièces d'or)
 
 Que poisson dorée :
 190 xp / evenement
