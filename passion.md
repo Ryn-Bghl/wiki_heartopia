@@ -2,6 +2,8 @@
 
 ## Les outils
 
+- Canne à peche
+- Hache
 
 ## Réparer les outils
 
